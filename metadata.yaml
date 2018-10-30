@@ -1,0 +1,32 @@
+_repo: Index-of-The-Project-Gutenberg-Works-of-Louisa-M-Alcott_58158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Barnard, A. M.
+    - Alcott, L. M. (Louisa May)
+    - Alcott, Louisa M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2018-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of The Project Gutenberg Works of Louisa M. Alcott
+url: http://www.gutenberg.org/ebooks/58158
